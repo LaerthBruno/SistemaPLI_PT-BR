@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,jdk.accessibility,jdk.httpserver,jdk.management,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,oracle.desktop,oracle.net,jdk.dynalink,jdk.incubator.httpclient,jdk.jfr,jdk.jsobject,jdk.management.cmm,jdk.management.jfr,jdk.management.resource,jdk.net,jdk.scripting.nashorn,jdk.xml.dom,java.xml.bind"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/cogroo-ann-4.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/cogroo-ann-pt_br-4.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/cogroo-dict-4.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/cogroo-nlp-4.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/cogroo-res-pt_br-4.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/glpk-java.jar"/>
+	<classpathentry kind="lib" path="libs/javailp-1.2a.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-analyzers-common-5.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-fsa-1.10.0.jar"/>
+	<classpathentry kind="lib" path="libs/morfologik-stemming-1.10.0.jar"/>
+	<classpathentry kind="lib" path="libs/opennlp-tools-1.6.0.jar"/>
+	<classpathentry kind="lib" path="libs/reverb-latest.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-impl-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/activation-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
